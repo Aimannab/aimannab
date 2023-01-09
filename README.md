@@ -1,5 +1,5 @@
 ### Hello! 👋
- I'm Aiman and I'm an Android Developer at Touch Surgery from Medtronic.
+ I'm Aiman and I'm a Senior Android Developer at Touch Surgery from Medtronic.
  
  I am a self-taught developer, passionate about building creative apps that provide innovative and effective solutions to users. Always coming up with ideas and looking for a new challenge.
  
